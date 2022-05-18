@@ -8,5 +8,4 @@ Scroll down to and find your theme and click on the "Install with Stylus".
 
 # Themes
 
-## Darkmode screener ## 
-()[https://github.com/MDBossss/css-themes/blob/main/dark-screener/dark-screener.css]
+## Darkmode screener ## [![name](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://github.com/MDBossss/css-themes/blob/main/dark-screener/dark-screener.css)
