@@ -11,7 +11,7 @@ Scroll down to and find your theme and click on the "Install directly with Stylu
 ## Darkmode screener [(cryptoxscanner)](https://new.cryptoxscanner.com/binance/monitor)
 Beautifies the looks of the horrible white mode and removes unnecessary elements. Choose between 3 theme variations. Every version contains the darkmode.
 
-Versions | Description | Download
+Version | Description | Download
 | :--- | :---: | :---:
 Default  | Changes website colors to darkmode. | [![Install Directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/MDBossss/css-themes/main/dark-screener/dark-screener.user.css)
 Default + ATH table delete  | Removes the ATH table | [![Install Directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/MDBossss/css-themes/main/dark-screener/dark-screener.user.css)
