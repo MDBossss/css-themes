@@ -1,0 +1,138 @@
+@-moz-document domain("cryptoxscanner.com") {
+/*Darkmode screener made by MDBoss*/
+:root {
+    --bg-color: #0d1018;
+    --bgdarker: #090b11;
+    --mygreen: #023B1C;
+    --myred: #B20D30;
+    --myblue: #3F84E5;
+    --highlightblue: #9BF3F0;
+}
+
+
+body,
+div,
+nav {
+    background: var(--bg-color);
+    color: #fff;
+}
+
+.container-fluid {
+    background: var(--bg-color);
+    color: #fff;
+}
+
+.card {
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 0;
+}
+
+.nav-link:hover {
+    color: var(--highlightblue);
+}
+
+body > app-cryptoxscanner > ng-component > div > ng-component > div.container-fluid.ng-tns-c1-0.ng-star-inserted > div:nth-child(2) > div.col-12.col-xl > div > div.card-header {
+    background-color: var(--myblue);
+}
+
+body > app-cryptoxscanner > ng-component > div > ng-component > div.container-fluid.ng-tns-c1-0.ng-star-inserted > div.row.mb-2 > div:nth-child(1) > div > div.table-responsive > table > tbody a {
+    color: white;
+}
+
+.card-header {
+    background: var(--bg-color);
+}
+
+.navbar {
+    background: var(--bg-color);
+}
+
+.form-controlfocus {
+    background: var(--bg-color);
+}
+
+.form-check-inline {
+    background: rgb(0, 0, 0, 0);
+}
+
+.custom-select {
+    background: var(--bg-color);
+}
+
+select {
+    color: white;
+}
+
+.table-success,
+.table-success th,
+.table-success td {
+    background-color: var(--mygreen) !important;
+}
+
+.bg-success {
+    background-color: var(--mygreen) !important;
+}
+
+.table-danger,
+.table-danger th,
+.table-danger td {
+    background-color: var(--myred);
+}
+
+.bg-warning {
+    background-color: var(--myred) !important;
+}
+
+.bg-light,
+.navbar {
+    background-color: var(--bg-color) !important;
+    color: #fff;
+}
+
+.bg-primary {
+    background-color: var(--myblue) !important;
+}
+
+.navbar-light .navbar-nav .nav-link,
+.navbar .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link,
+.navbar .navbar-nav .nav-linkhover {
+    color: var(--highlightblue);
+}
+
+.span:hover {
+    color: var(--highlightblue);
+}
+
+.span.navbar-brand {
+    background: var(--bg-color);
+}
+
+.input-group {
+    background: var(--bg-color);
+}
+.input-group-text {
+    background: var(--bg-color);
+}
+
+.form-control {
+    background: var(--bg-color);
+}
+
+/*ATH coin section remove*/
+/*body > app-cryptoxscanner > ng-component > div > ng-component > div.container-fluid.ng-tns-c1-0.ng-star-inserted > div.row.mb-2 > div:nth-child(1) {
+    display: none;
+}
+
+body > app-cryptoxscanner > ng-component > div > ng-component > div.container-fluid.ng-tns-c1-0.ng-star-inserted > div.row.mb-2 > div.col.ng-tns-c1-0.ng-star-inserted {
+    max-width: 50%;
+    margin-left: 50%;
+    /*for right side alerts*/
+    /*margin: auto;*/
+    /*for centered alerts*/
+}
+}
