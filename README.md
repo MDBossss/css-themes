@@ -8,7 +8,7 @@ Scroll down to and find your theme and click on the "Install with Stylus".
 
 # Themes
 
-## Darkmode screener (cryptoxscannner.com)
+## Darkmode screener [https://new.cryptoxscanner.com/binance/monitor](cryptoxscannner.com)
 Beautify the looks of the horrible white mode and reposition unnecessary elements. Choose between 3 theme variations. Previous changes are contained in the next ones.
 
 Versions | Description | Download
