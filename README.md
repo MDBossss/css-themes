@@ -9,10 +9,10 @@ Scroll down to and find your theme and click on the "Install with Stylus".
 # Themes
 
 ## dark-screener [![Install Directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/MDBossss/css-themes/main/dark-screener/dark-screener.user.css)
-Adjusted colors.
+* Adjusted colors.
 
 ## dark-screener-noath [![Install Directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/MDBossss/css-themes/main/dark-screener/dark-screener-noath.user.css)
-Adjusted colors, deleted all time high table.
+* Adjusted colors, deleted all time high table.
 
 ## dark-screener-noath-centered [![Install Directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/MDBossss/css-themes/main/dark-screener/dark-screener-noath-centered.user.css)
-Adjusted colors, deleted and centered all time high table.
+* Adjusted colors, deleted and centered all time high table.
