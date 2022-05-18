@@ -144,8 +144,8 @@ select {
 body > app-cryptoxscanner > ng-component > div > ng-component > div.container-fluid.ng-tns-c1-0.ng-star-inserted > div.row.mb-2 > div.col.ng-tns-c1-0.ng-star-inserted {
     max-width: 50%;
     margin-left: 50%;
-    /*for right side alerts*/
-    /*margin: auto;*/
-    /*for centered alerts*/
-}
+    for right side alerts
+    margin: auto;
+    for centered alerts
+}*/
 }
