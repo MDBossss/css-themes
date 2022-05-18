@@ -41,6 +41,10 @@ nav {
     border-radius: 0;
 }
 
+#branding_image{
+    display:none !important;
+}
+
 .nav-link:hover {
     color: var(--highlightblue);
 }
