@@ -9,11 +9,13 @@ Scroll down to and find your theme and click on the "Install with Stylus".
 # Themes
 
 ## Darkmode screener (cryptoxscannner.com)
+Beautify the looks of the horrible white mode and reposition unnecessary elements.
 
-filename | description | Download
+Versions | Description | Download
 | :--- | :---: | :---:
-Content Cell  | Content Cell | Content Cell
-Content Cell  | Content Cell | Content Cell
+Default  | Changes website colors to darkmode. | Content Cell
+Default + ATH table delete  | Removes the ATH table | Content Cell
+Default + ATH table delete + centered alerts  | Centers the alerts table | Content Cell
 
 ## dark-screener [![Install Directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/MDBossss/css-themes/main/dark-screener/dark-screener.user.css)
 * Adjusted colors.
