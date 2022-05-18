@@ -1,3 +1,16 @@
+/* ==UserStyle==
+@name         dark-screener-noath
+@author       MDBoss
+@namespace    github.com/MDBossss
+@version      2
+@description  Darkmode screener without all time high table (not centered alerts)
+@homepageURL  https://github.com/MDBossss/css-themes/tree/main/dark-screener
+@supportURL   https://github.com/MDBossss/css-themes/tree/main/dark-screener
+@updateURL    https://github.com/MDBossss/css-themes/blob/main/dark-screener/dark-screener.user.css
+@license      unlicense
+@preprocessor default
+==/UserStyle== */
+
 @-moz-document domain("cryptoxscanner.com") {
 /*Darkmode screener made by MDBoss*/
 :root {
