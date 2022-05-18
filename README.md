@@ -14,6 +14,6 @@ _Click on the version to preview the theme._
 
 Version | Description | Download
 | :--- | :---: | :---:
-Default  | Changes website colors to darkmode. | [![Install Directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/MDBossss/css-themes/main/dark-screener/dark-screener.user.css)
+[Default](https://imgur.com/a/7NBC33g)  | Changes website colors to darkmode. | [![Install Directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/MDBossss/css-themes/main/dark-screener/dark-screener.user.css)
 Default + ATH table delete  | Removes the ATH table | [![Install Directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/MDBossss/css-themes/main/dark-screener/dark-screener.user.css)
 Default + ATH table delete + centered alerts  | Centers the alerts table and removes the ATH table | [![Install Directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/MDBossss/css-themes/main/dark-screener/dark-screener-noath-centered.user.css)
