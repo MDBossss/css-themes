@@ -8,6 +8,13 @@ Scroll down to and find your theme and click on the "Install with Stylus".
 
 # Themes
 
+## Darkmode screener (cryptoxscannner.com)
+
+filename | description | Download
+| :--- | :---: | :---:
+Content Cell  | Content Cell | Content Cell
+Content Cell  | Content Cell | Content Cell
+
 ## dark-screener [![Install Directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/MDBossss/css-themes/main/dark-screener/dark-screener.user.css)
 * Adjusted colors.
 
