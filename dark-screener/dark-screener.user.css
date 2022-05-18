@@ -1,12 +1,14 @@
 /* ==UserStyle==
-@name         Darkmode Screener
+@name         dark-screener
 @author       MDBoss
-@version      2
 @namespace    github.com/MDBossss
-@homepageURL  https://github.com/MDBossss/css-themes/edit/main/dark-screener
-@updateURL    https://raw.githubusercontent.com/MDBossss/css-themes/main/dark-screener/dark-screener.css
-@license      MIT
-@preprocessor less
+@version      2
+@description  Darkmode screener
+@homepageURL  https://github.com/MDBossss/css-themes/tree/main/dark-screener
+@supportURL   https://github.com/MDBossss/css-themes/tree/main/dark-screener
+@updateURL    https://github.com/MDBossss/css-themes/blob/main/dark-screener/dark-screener.user.css
+@license      unlicense
+@preprocessor default
 ==/UserStyle== */
 
 @-moz-document domain("cryptoxscanner.com") {
