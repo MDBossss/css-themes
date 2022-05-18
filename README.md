@@ -8,4 +8,4 @@ Scroll down to and find your theme and click on the "Install with Stylus".
 
 # Themes
 
-## Darkmode screener ()[https://github.com/MDBossss/css-themes/blob/main/dark-screener/dark-screener.css]
+## Darkmode screener ## ()[https://github.com/MDBossss/css-themes/blob/main/dark-screener/dark-screener.css]
