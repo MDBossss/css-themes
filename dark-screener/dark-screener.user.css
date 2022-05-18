@@ -44,6 +44,10 @@ nav {
 .nav-link:hover {
     color: var(--highlightblue);
 }
+    
+#branding_image{
+    display:none !important;
+}
 
 body > app-cryptoxscanner > ng-component > div > ng-component > div.container-fluid.ng-tns-c1-0.ng-star-inserted > div:nth-child(2) > div.col-12.col-xl > div > div.card-header {
     background-color: var(--myblue);
